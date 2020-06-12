@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "TestModel",
+    "owner": "Balachandren S",
+    "description": "Threat model for a sample web application"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
